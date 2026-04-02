@@ -1,0 +1,16 @@
+# Build files
+*.o
+*.out
+*.exe
+chip8_emu
+emu
+
+# OS files
+.DS_Store
+
+# VS Code
+.vscode/
+
+# ROMs (local only)
+roms/
+*.ch8
